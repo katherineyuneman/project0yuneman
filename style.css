@@ -1,6 +1,7 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
+  text-align: center;
 }
 h1{
   padding:20px;
@@ -14,10 +15,16 @@ h1{
   overflow-x: hidden;
   padding-top: 20px;
 }
+#staticLeft{
+  position:absolute;
+  vertical-align:middle;
+  padding: 30%;
+
+}
 .left {
   left: 0;
   background-color: rgb(233, 173, 10);
-  color: white
+  color: white;
 }
 .right {
   right: 0;
@@ -34,4 +41,3 @@ h1{
 .centered img {
   width: 150px;
   border-radius: 50%;
-}
