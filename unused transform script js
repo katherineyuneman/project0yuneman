@@ -1,0 +1,41 @@
+/*
+        const img1 = document.getElementById("img1"),
+                img2 = document.getElementById("img2");
+
+        img1.addEventListener("click", function(e) {
+            img1.style.transform = "rotate(45deg)";
+          });
+        img1.click= function(e){
+
+        };
+        click;
+
+
+        const img1 = document.getElementById("img1"),
+                img2 = document.getElementById("img2");
+
+        img1.addEventListener("click", function(e) {
+            img1.style.transform = "none";
+          });
+        img1.click= function(e){
+
+        };
+        click;
+        */
+
+
+        /*const button1 = document.getElementById("button1"),
+        aboutText = document.getElementById("aboutText");
+        button1.addEventListener("click", function(e){
+
+            if (aboutText.style.display !== "block") {
+            aboutText.style.display = "block";
+            }
+            else {
+            aboutText.style.display = "none";
+        }});
+
+        button1.click = function (e){
+
+        };
+        */

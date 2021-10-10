@@ -59,6 +59,65 @@ p{
   padding-top: 100px;
   vertical-align: middle;
 }
+#sidemenu{
+  padding-right:5px;
+  text-align: right;
+  padding-top: 65%;
+}
+#button1{
+  display:inline-block;
+  padding:0.35em 1.2em;
+  border:0.1em solid rgb(233, 173, 10);
+  background-color: rgb(233, 173, 10);
+  margin:0 0.3em 0.3em 0;
+  border-radius:0.12em;
+  box-sizing: border-box;
+  text-decoration:none;
+  font-family:'Roboto',sans-serif;
+  font-weight:300;
+  color:#FFFFFF;
+  text-align:center;
+  transition: all 0.2s;
+  }
+  #button1:hover{
+  color:rgb(233, 173, 10);
+  background-color:#FFFFFF;
+  }
+  #aboutTitle{
+    color:black;
+    visibility:hidden;
+  }
+  #aboutText{
+    color:black;
+    visibility:hidden;
+  }
+  #button2{
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid rgb(233, 173, 10);
+    background-color: rgb(233, 173, 10);
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#FFFFFF;
+    text-align:center;
+    transition: all 0.2s;
+    }
+    #button2:hover{
+    color:rgb(233, 173, 10);
+    background-color:#FFFFFF;
+    }
+  #socialTitle{
+    color:black;
+    visibility:hidden;
+  }
+  #socialText{
+    color:black;
+    visibility:hidden;
+  }
 .right {
   height: 100%;
   width: 75%;
