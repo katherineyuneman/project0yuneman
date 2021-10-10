@@ -9,15 +9,25 @@ p{
   padding-left: 15%;
   padding-right: 15%;
 }
-.centeredimg {
+#img1 {
   position: absolute;
+  z-index: 5;
+  top: 20%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border-radius: 50%;
+  display: block;
+}
+#img2{
+  position:absolute;
   z-index: 4;
   top: 20%;
   left: 20%;
   transform: translate(-50%, -50%);
   text-align: center;
   border-radius: 50%;
-  transform: rotate(45deg);
+  display: none;
 }
 #centeredname{
   position: absolute;
